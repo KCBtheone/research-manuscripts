@@ -2,8 +2,9 @@
 
 This repository hosts research manuscript PDFs as release assets.
 
-## VoxelAtlas
+- [VoxelAtlas: Reconstructing Real-World Scenes as Parametric Surfaces](https://github.com/KCBtheone/research-manuscripts/releases/tag/voxelatlas-manuscript)
+- [Rethinking 3D Attribute Fitting through Geometric Acquisition](https://github.com/KCBtheone/research-manuscripts/releases/tag/lift)
+- [SoftGS: A Structured Gaussian Representation for Controllable Non-Rigid Editing](https://github.com/KCBtheone/research-manuscripts/releases/tag/softgs)
+- [SplatAtlas: A Reusable State-Level Benchmark for Gaussian Splatting](https://github.com/KCBtheone/research-manuscripts/releases/tag/splatatlas)
 
-VoxelAtlas: Reconstructing Real-World Scenes as Parametric Surfaces. A manuscript of this work has been submitted and is currently under review.
-
-The manuscript PDF is available in the VoxelAtlas manuscript release. Research code is being organized for a future public release.
+A manuscript of VoxelAtlas has been submitted and is currently under review. Research code is being organized for a future public release.
