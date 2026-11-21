@@ -7,4 +7,6 @@ This repository hosts research manuscript PDFs as release assets.
 - [SoftGS: A Structured Gaussian Representation for Controllable Non-Rigid Editing](https://github.com/KCBtheone/research-manuscripts/releases/tag/softgs)
 - [SplatAtlas: A Reusable State-Level Benchmark for Gaussian Splatting](https://github.com/KCBtheone/research-manuscripts/releases/tag/splatatlas)
 
-A manuscript of VoxelAtlas has been submitted and is currently under review. Research code is being organized for a future public release.
+All four manuscripts listed above are currently under review. Research code is being organized for a future public release.
+
+Project summaries and contact information are available on [KCB's research website](https://kcbtheone.github.io/KCB/).
